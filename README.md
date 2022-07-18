@@ -1,7 +1,7 @@
 ### Hi,I'm Sugarscat. :wave:
 
 你可以访问：
-> You can visit:<
+> You can visit:
 
 [<img src = "https://github.com/Sugarscat/Icon/blob/main/GitHub.png" height = "32">](https://github.com/Sugarscat)
 [<img src = "https://github.com/Sugarscat/Icon/blob/main/gitee.png" height = "32">](https://gitee.com/Sugarscat)
