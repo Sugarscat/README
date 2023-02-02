@@ -1,7 +1,3 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sugarscat&show_icons=true&inc">
-</a>
-
 ### Hi,I'm Sugarscat. :wave:
 
 你可以访问：
@@ -13,3 +9,7 @@
 [<img title = "YouTube" src = "https://github.com/Sugarscat/CollectionOfPictures/blob/main/icon/youtube.png" height = "30">](https://www.youtube.com/channel/UCzatmr6pXZzMRe4gbhJqIPA)
 
 ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=Sugarscat.Sugarscat.readme)
+
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sugarscat&show_icons=true&inc">
+</a>
