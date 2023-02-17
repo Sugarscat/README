@@ -15,4 +15,4 @@
 ![Java](https://img.shields.io/badge/-Java-f7822d?style=flat-square&logo=CoffeeScript&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-005495?style=flat-square&logo=C&logoColor=fff)
 
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=Sugarscat.Sugarscat.readme)
+![Please refresh the page!](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=Sugarscat.Sugarscat.readme)
