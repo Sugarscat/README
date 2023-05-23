@@ -14,5 +14,3 @@
 
 ![Java](https://img.shields.io/badge/-Java-f7822d?style=flat-square&logo=CoffeeScript&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-005495?style=flat-square&logo=C&logoColor=fff)
-
-![Please refresh the page!](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=Sugarscat.Sugarscat.readme)
