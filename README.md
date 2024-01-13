@@ -9,7 +9,7 @@ You can visit:
 ![Java](https://img.shields.io/badge/-Java-f7822d?style=flat-square&logo=CoffeeScript&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-005495?style=flat-square&logo=C&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Spring](https://img.shields.io/badge/Spring-4FC08D?logo=spring)
+![Spring](https://img.shields.io/badge/Spring-4FC08D?logo=spring&logoColor=fff&style=flat)
 
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=Sugarscat&show_icons=true&inc">
