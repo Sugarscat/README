@@ -2,9 +2,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/sugarscat/icon/gif/kyubey.gif" align="right" alt="kyubey"/>
 
-🔭 I’m currently working on C/C++,Java,Python,Vue.js,SpringBoot,Linux,etc;
+🔭 I’m currently working on C/C++, Java, Python, Vue.js, SpringBoot, Linux, etc;
 
-🌱 I’m currently learning Python,C/C++,etc;
+🌱 I’m currently learning Python, C/C++, etc;
 
 📫 How to reach me: work@sugarscat.cn.
 
