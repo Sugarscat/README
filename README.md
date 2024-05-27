@@ -1,10 +1,14 @@
 ## Hi,I'm Sugarscat. :wave:
 
+<img src="https://cdn.jsdelivr.net/gh/sugarscat/icon/gif/kyubey.gif" align="right" alt="kyubey"/>
+
+🔭 I’m currently working on C/C++,Java,Python,Vue.js,SpringBoot,Linux,etc.
+
+🌱 I’m currently learning Python,C/C++,etc.
+
 📫 How to reach me: work@sugarscat.cn;
 
-![kyubey](https://cdn.jsdelivr.net/gh/sugarscat/icon/gif/kyubey.gif)
-
-## ✨ Technology Stack
+## ✨Technology Stack
 ![Java](https://img.shields.io/badge/-Java-f7822d?style=flat-square&logo=CoffeeScript&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-005495?style=flat-square&logo=C&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=fff)
