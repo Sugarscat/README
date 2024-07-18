@@ -2,11 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/sugarscat/icon/gif/kyubey.gif" align="right" alt="kyubey"/>
 
-🔭 I’m currently working on C/C++, Java, Python, Vue.js, SpringBoot, Linux, etc;
-
-🌱 I’m currently learning Python, C/C++, etc;
-
-📫 How to reach me: work@sugarscat.cn.
+📫 How to reach me: work@sugarscat.com.
 
 ### ✨Technology Stack
 ![Java](https://img.shields.io/badge/-Java-f7822d?style=flat-square&logo=CoffeeScript&logoColor=fff)
